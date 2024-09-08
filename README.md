@@ -21,8 +21,9 @@ Jᴜsᴛ ᴀ sᴛᴜᴅᴇɴᴛ ᴡʜᴏ ʟɪᴠᴇ ɪɴ ᴋᴏʀᴇᴀ ᴀɴᴅ
 - **Twitter:** @Aurorasphere_
 
 ### Currently Working On 
-- 2024 Capstone Design 
+- 2024 Capstone Design
 - AurOS
+  - A low level operating system that operates entirely in the Ring0 level.  
 - 8-Bit Computer on C
 
 <h3 align="left">Stuff I Use</h3>
