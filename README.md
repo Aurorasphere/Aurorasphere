@@ -4,6 +4,7 @@ Jᴜsᴛ ᴀ sᴛᴜᴅᴇɴᴛ ᴡʜᴏ ʟɪᴠᴇ ɪɴ ᴋᴏʀᴇᴀ ᴀɴᴅ
 ## Info
 ### Personal
 - **Name:** Dongjun "Aurorasphere" Kim
+- **Pronoun:** He, She, They, It... Whatever you want
 - **Date of birth:** January 24, 2003
 - **MBTI:** INFJ
 - **Languages:** Korean (native), English, Ancient Greek (yes, fr)
