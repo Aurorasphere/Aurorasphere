@@ -20,6 +20,10 @@ Jᴜsᴛ ᴀ sᴛᴜᴅᴇɴᴛ ᴡʜᴏ ʟɪᴠᴇ ɪɴ ᴋᴏʀᴇᴀ ᴀɴᴅ
 - **Discord:** aurorasphere
 - **Twitter:** @Aurorasphere_
 
+### Currently Working On 
+- 2024 Capstone Design 
+- AurOS
+- 8-Bit Computer on C
 
 <h3 align="left">Stuff I Use</h3>
 <p align="center">
