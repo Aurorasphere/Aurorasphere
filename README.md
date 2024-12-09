@@ -13,7 +13,7 @@ Jᴜsᴛ ᴀ sᴛᴜᴅᴇɴᴛ ᴡʜᴏ ʟɪᴠᴇ ɪɴ ᴋᴏʀᴇᴀ ᴀɴᴅ
 ### Education
 - **Degree:** Practical Music Composition (Graduated), Bachelor of Linguistics and Electronic Engineering (Double major, both undergraduate)
 - **Institution:** Peniel High School of Art, Chungnam National University (충남대학교, CNU)
-- **Detailed Major:** Generative Grammar and Phonology, Head-Driven Phrase Grammar (in Linguistics)
+- **Detailed Major:** Generative theory, Head-Driven Phrase Structure Grammar and Phonology (in Linguistics)
 
 ### Contact
 - **Email:** aurorasphere@o.cnu.ac.kr
@@ -23,10 +23,13 @@ Jᴜsᴛ ᴀ sᴛᴜᴅᴇɴᴛ ᴡʜᴏ ʟɪᴠᴇ ɪɴ ᴋᴏʀᴇᴀ ᴀɴᴅ
 ### The work I've done
 - [not-so-oisc](https://github.com/Aurorasphere/not-so-oisc): A Minimal Instruction Set Computer(MISC) based on Subleq instruction, written in C.
 ### Currently Working On 
+- AuRISC Project
+  - 16/32-bit RISC Processor with 5-stage pipeline
+  - Its own C compiler and port of UNIX(-like) system
 - AurOS
-  - A low-level operating system that operates entirely at Ring0 and is freely hackable. 
+  - A low-level operating system that operates entirely at Ring0 and is freely hackable.
 - 6502 Emulator in C/Zig
-- Custom 16/32-bit RISC Processor
+  - Classic CISC processor emulator, written in C/Zig.
 - Rule-based syntactic parser for Korean written in C/Rust
 
 <h3 align="left">Stuff I Use</h3>
@@ -57,5 +60,4 @@ Unless otherwise specified, all code in my repositories is licensed under the **
 <br>
 <p align="center" style="font-size:5%">
     <img src="https://media1.tenor.com/m/iIN74ofh27EAAAAd/chipi-chipi-chapa-chap-cat.gif" width="20" height="15" alt="chipi chipi chapa chapa dubi dubi daba daba"/><br>
-치피치피차파차파두비두비다바다
 </p>
