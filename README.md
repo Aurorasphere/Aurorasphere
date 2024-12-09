@@ -7,7 +7,7 @@ Jᴜsᴛ ᴀ sᴛᴜᴅᴇɴᴛ ᴡʜᴏ ʟɪᴠᴇ ɪɴ ᴋᴏʀᴇᴀ ᴀɴᴅ
 - **Pronoun:** He, She, They, It... Whatever you want
 - **Date of birth:** January 24, 2003
 - **MBTI:** INFJ
-- **Languages:** Korean (native), English, Ancient Greek (yes, fr)
+- **Languages:** Korean (native), English, Ancient Greek (Learning)
 - **Motto:** *Ἓν οἶδα ὅτι οὐδὲν οἶδα.* (Which means, "I know that i know nothing.")
 
 ### Education
