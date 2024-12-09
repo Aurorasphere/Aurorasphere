@@ -21,7 +21,7 @@ Jᴜsᴛ ᴀ sᴛᴜᴅᴇɴᴛ ᴡʜᴏ ʟɪᴠᴇ ɪɴ ᴋᴏʀᴇᴀ ᴀɴᴅ
 - **Discord:** aurorasphere
 
 ### The work I've done
-- not-so-oisc: A Minimal Instruction Set Computer(MISC) based on Subleq instruction, written in C.
+- [not-so-oisc](https://github.com/Aurorasphere/not-so-oisc): A Minimal Instruction Set Computer(MISC) based on Subleq instruction, written in C.
 ### Currently Working On 
 - AurOS
   - A low-level operating system that operates entirely at Ring0 and is freely hackable. 
