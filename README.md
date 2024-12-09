@@ -19,13 +19,13 @@ Jᴜsᴛ ᴀ sᴛᴜᴅᴇɴᴛ ᴡʜᴏ ʟɪᴠᴇ ɪɴ ᴋᴏʀᴇᴀ ᴀɴᴅ
 - **Email:** aurorasphere@o.cnu.ac.kr
 - **velog:** @aurorasphere
 - **Discord:** aurorasphere
-- **Twitter:** @Aurorasphere_
 
 ### Currently Working On 
-- 2024 Capstone Design
 - AurOS
-  - A low level operating system that operates entirely in the Ring0 level.  
-- 8-Bit Computer on C
+  - A low-level operating system that operates entirely at Ring0 and is freely hackable. 
+- 6502 Emulator in C/Zig
+- Custom 16/32-bit RISC Processor
+- Rule-based syntactic parser for Korean written in C/Rust
 
 <h3 align="left">Stuff I Use</h3>
 <p align="center">
