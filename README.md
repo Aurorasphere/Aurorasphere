@@ -13,7 +13,7 @@ Jᴜsᴛ ᴀ sᴛᴜᴅᴇɴᴛ ᴡʜᴏ ʟɪᴠᴇ ɪɴ ᴋᴏʀᴇᴀ ᴀɴᴅ
 ### Education
 - **Degree:** Practical Music Composition (Graduated), Bachelor of Linguistics and Electronic Engineering (Double major, both undergraduate)
 - **Institution:** Peniel High School of Art, Chungnam National University (충남대학교, CNU)
-- **Detailed Major:** Generative Grammar and Phonology, Head-Driven Phrase Grammar (in Linguistics), Digital System and Computer Architecture (in E.E)
+- **Detailed Major:** Generative Grammar and Phonology, Head-Driven Phrase Grammar (in Linguistics)
 
 ### Contact
 - **Email:** aurorasphere@o.cnu.ac.kr
