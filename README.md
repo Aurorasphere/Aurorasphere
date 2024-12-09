@@ -30,7 +30,7 @@ Jᴜsᴛ ᴀ sᴛᴜᴅᴇɴᴛ ᴡʜᴏ ʟɪᴠᴇ ɪɴ ᴋᴏʀᴇᴀ ᴀɴᴅ
   - A low-level operating system that operates entirely at Ring0 and is freely hackable.
 - 6502 Emulator in C/Zig
   - Classic CISC processor emulator, written in C/Zig.
-- Rule-based syntactic parser for Korean written in C/Rust
+- HPSG-based syntactic structure analyzer for Korean, written in C/Rust
 
 <h3 align="left">Stuff I Use</h3>
 <p align="center">
