@@ -50,6 +50,10 @@ Jᴜsᴛ ᴀ sᴛᴜᴅᴇɴᴛ ᴡʜᴏ ʟɪᴠᴇ ɪɴ ᴋᴏʀᴇᴀ ᴀɴᴅ
   </a>
 </div>
 
+### Licensing Notice
+
+Unless otherwise specified, all code in my repositories is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. For more information, refer to the [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
 <br>
 <p align="center" style="font-size:5%">
     <img src="https://media1.tenor.com/m/iIN74ofh27EAAAAd/chipi-chipi-chapa-chap-cat.gif" width="20" height="15" alt="chipi chipi chapa chapa dubi dubi daba daba"/><br>
