@@ -26,11 +26,6 @@ Jᴜsᴛ ᴀ sᴛᴜᴅᴇɴᴛ ᴡʜᴏ ʟɪᴠᴇs ɪɴ ᴋᴏʀᴇᴀ ᴀɴ�
 - AuRISC Project
   - 16/32-bit RISC Processor with 5-stage pipeline
   - Its own C compiler and port of UNIX(-like) system
-- AurOS
-  - A low-level operating system that operates entirely at Ring0 and is freely hackable.
-- 6502 Emulator in C/Zig
-  - Classic CISC processor emulator, written in C/Zig.
-- HPSG-based syntactic structure analyzer for Korean, written in C/Rust
 
 <h3 align="left">Stuff I Use</h3>
 <p align="center">
