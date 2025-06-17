@@ -20,13 +20,6 @@ Jᴜsᴛ ᴀ sᴛᴜᴅᴇɴᴛ ᴡʜᴏ ʟɪᴠᴇs ɪɴ ᴋᴏʀᴇᴀ ᴀɴ�
 - **velog:** @aurorasphere
 - **Discord:** aurorasphere
 
-### The work I've done
-- [not-so-oisc](https://github.com/Aurorasphere/not-so-oisc): A Minimal Instruction Set Computer(MISC) based on Subleq instruction, written in C.
-### Currently Working On 
-- AuRISC Project
-  - 16/32-bit RISC Processor with 5-stage pipeline
-  - Its own C compiler and port of UNIX(-like) system
-
 <h3 align="left">Stuff I Use</h3>
 <p align="center">
   <a href="https://skillicons.dev">
